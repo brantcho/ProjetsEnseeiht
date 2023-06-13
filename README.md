@@ -4,6 +4,6 @@
 ## Mes projets à l'enseeiht 
 ******************
 Semestre 8 
--- Projet control optimal 
--- BE statistiques 
--- Projet simulation numérique 
+-- Projet control optimal \n
+-- BE statistiques \n 
+-- Projet simulation numérique \n  
