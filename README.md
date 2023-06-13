@@ -4,7 +4,7 @@
 ## Mes projets à l'enseeiht  <br>
 ******************
 ### Semestre 7  <br> <br> 
-* Projet simulation numérique 1  <br>
+* Projet optimisation numérique 1  <br>
 
 
 ### Semestre 8  <br> <br> 
